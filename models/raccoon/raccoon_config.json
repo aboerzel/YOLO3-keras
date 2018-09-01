@@ -1,0 +1,40 @@
+{
+  "model": {
+    "min_input_size": 352,
+    "max_input_size": 448,
+    "anchors": [117,142, 135,299, 153,216, 190,343, 235,248, 250,380, 302,316, 360,387, 369,268],
+    "labels": [
+      "raccoon"
+    ]
+  },
+  "train": {
+    "train_image_folder": "floyd/input/raccoon/images/",
+    "train_annot_folder": "floyd/input/raccoon/annotations/",
+    "cache_name": "models/raccoon/raccoon_train.pkl",
+    "train_times": 10,
+    "batch_size": 16,
+    "learning_rate": 1e-4,
+    "nb_epochs": 100,
+    "warmup_epochs": 3,
+    "ignore_thresh": 0.5,
+    "gpus": "0",
+     "grid_scales": [
+      1,
+      1,
+      1
+    ],
+    "obj_scale": 5,
+    "noobj_scale": 1,
+    "xywh_scale": 1,
+    "class_scale": 1,
+    "tensorboard_dir": "models/raccoon/logs",
+    "saved_weights_name": "models/raccoon/raccoon.h5",
+    "debug": true
+  },
+  "valid": {
+    "valid_image_folder": "",
+    "valid_annot_folder": "",
+    "cache_name": "",
+    "valid_times": 1
+  }
+}
