@@ -4,11 +4,11 @@ https://github.com/experiencor/keras-yolo3
 
 https://github.com/experiencor/image-to-3d-bbox
 
-Link to [Raccoon](raccoon.ipynb)
+Link to [Raccoon](Notebook raccoon.ipynb)
 
 | Blog Post        | |
 | ------------- |:-------------|
-|[Raccoon](/raccoon.ipynb)| |
+|[Raccoon](Notebook raccoon.ipynb)| |
 
 
 ## Dataset and Model
