@@ -1,0 +1,26 @@
+<annotation>
+    <folder>raw_images</folder>
+    <filename>IMG_1163.JPG</filename>
+    <path>/images/IMG_1163.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4032</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fabian</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>53</xmin>
+            <ymin>78</ymin>
+            <xmax>3131</xmax>
+            <ymax>2703</ymax>
+        </bndbox>
+    </object>
+</annotation>
