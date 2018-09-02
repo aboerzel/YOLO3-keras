@@ -105,5 +105,5 @@ venv.bak/
 
 # YOLO
 *.pkl
-/logs
-/output
+logs/
+output/
