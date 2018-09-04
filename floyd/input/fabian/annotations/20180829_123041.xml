@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>20180829_123041.jpg</filename>
-	<path>/images/20180829_123041.jpg</path>
+	<path>D:\development\cv\keras-yolo3\floyd\input\fabian\images\20180829_123041.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4160</width>
-		<height>3120</height>
+		<width>3120</width>
+		<height>4160</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>857</xmin>
-			<ymin>1463</ymin>
-			<xmax>2789</xmax>
-			<ymax>2273</ymax>
+			<xmin>848</xmin>
+			<ymin>863</ymin>
+			<xmax>1660</xmax>
+			<ymax>2775</ymax>
 		</bndbox>
 	</object>
 </annotation>

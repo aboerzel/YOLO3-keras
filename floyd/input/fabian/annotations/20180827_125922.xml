@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>20180826_181927.jpg</filename>
-	<path>D:\development\cv\keras-yolo3\floyd\input\fabian\images\20180826_181927.jpg</path>
+	<filename>20180827_125922.jpg</filename>
+	<path>D:\development\cv\keras-yolo3\floyd\input\fabian\images\20180827_125922.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>845</xmin>
-			<ymin>1701</ymin>
-			<xmax>1642</xmax>
-			<ymax>2513</ymax>
+			<xmin>1273</xmin>
+			<ymin>1714</ymin>
+			<xmax>2120</xmax>
+			<ymax>3779</ymax>
 		</bndbox>
 	</object>
 </annotation>
