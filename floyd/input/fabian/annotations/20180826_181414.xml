@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20180826_181414.jpg</filename>
+	<path>/images/20180826_181414.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fabian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1025</xmin>
+			<ymin>518</ymin>
+			<xmax>2525</xmax>
+			<ymax>2976</ymax>
+		</bndbox>
+	</object>
+</annotation>
