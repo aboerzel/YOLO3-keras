@@ -1,8 +1,8 @@
 {
   "model": {
-    "min_input_size": 416,
-    "max_input_size": 416,
-    "anchors": [0,0, 118,116, 199,289, 231,113, 273,171, 314,218, 324,337, 358,415, 407,403],
+    "min_input_size": 288,
+    "max_input_size": 448,
+    "anchors": [157,120, 193,287, 257,85, 274,167, 315,214, 319,336, 356,414, 387,414, 414,387],
     "labels": [
       "fabian"
     ]
@@ -29,7 +29,7 @@
     "class_scale": 1,
     "tensorboard_dir": "models/fabian/logs",
     "saved_weights_name": "models/fabian/fabian.h5",
-    "debug": true
+    "debug": false
   },
   "valid": {
     "valid_image_folder": "",
