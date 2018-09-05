@@ -1,15 +1,7 @@
 # YOLO3 (Detection, Training, and Evaluation)
 
 https://github.com/experiencor/keras-yolo3
-
-## Todo list:
-- [x] Yolo3 detection
-- [x] Yolo3 training (warmup and multi-scale)
-- [x] mAP Evaluation
-- [x] Multi-GPU training
-- [x] Evaluation on VOC
-- [ ] Evaluation on COCO
-- [ ] MobileNet, DenseNet, ResNet, and VGG backends
+https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
 
 ## Detection
 

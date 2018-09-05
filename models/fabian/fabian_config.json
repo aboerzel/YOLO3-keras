@@ -1,7 +1,7 @@
 {
   "model": {
     "min_input_size": 288,
-    "max_input_size": 448,
+    "max_input_size": 416,
     "anchors": [78,180, 100,102, 113,267, 157,300, 193,172, 220,283, 287,226, 288,155, 341,358],
     "labels": [
       "fabian"
