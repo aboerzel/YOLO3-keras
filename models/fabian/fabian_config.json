@@ -11,7 +11,7 @@
     "train_image_folder": "/floyd/input/fabian/images/",
     "train_annot_folder": "/floyd/input/fabian/annotations/",
     "cache_name": "models/fabian/fabian_train.pkl",
-    "train_times": 100,
+    "train_times": 50,
     "batch_size": 16,
     "learning_rate": 1e-4,
     "nb_epochs": 100,
