@@ -15,7 +15,7 @@ Hier einige Artikel zur Arbeitsweise von YOLO:
 
 #### Erkennung von Fahrzeugen, Verkehrszeichen und Personen in Echtzeit
 
-![Beispiel](notebook/videos/cars_on_the_road.mp4)
+![Beispiel](https://youtu.be/MiJpW9fhUdw)
 
 #### Erkennung von Waschbären in Echtzeit
 
