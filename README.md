@@ -2,7 +2,7 @@
 
 # Real-time object detection with YOLO 3 (Keras)
 
-Pyhon-Framework zur Erkennung und Lokalisierung von Objekten in Bildern und Videostreams in Echtzeit. Das Framework basierend auf der [YOLO 3]('notebook/YOLOv3.pfd') Implementierung (https://github.com/experiencor/keras-yolo3) von (https://github.com/experiencor).
+Pyhon-Framework zur Erkennung und Lokalisierung von Objekten in Bildern und Videostreams in Echtzeit. Das Framework basierend auf der [YOLO 3]('notebook/YOLOv3.pdf') Implementierung (https://github.com/experiencor/keras-yolo3) von (https://github.com/experiencor).
 
  
 
