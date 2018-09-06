@@ -1,4 +1,5 @@
-#! /usr/bin/env python
+# USAGE
+# python predict.py -c models/raccoon/raccoon_config.json -i webcam
 
 import os
 import argparse

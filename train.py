@@ -1,5 +1,5 @@
 # USAGE
-# python train.py --conf zoo/raccoon_config.json
+# python train.py -c models/raccoon/raccoon_config.json
 
 import argparse
 import json
@@ -150,7 +150,7 @@ def create_model(
             class_scale=class_scale
         )
 
-        # load the pretrained weight if exists, otherwise load the backend weight only
+    # load the pretrained weight if exists, otherwise load the backend weight only
     if os.path.exists(saved_weights_name):
         print("\nLoading pretrained weights.\n")
         template_model.load_weights(saved_weights_name)
@@ -227,10 +227,11 @@ def _main_(args):
     warmup_batches = config['train']['warmup_epochs'] * (config['train']['train_times'] * len(train_generator))
 
     os.environ['CUDA_VISIBLE_DEVICES'] = config['train']['gpus']
-    multi_gpu = -1
 
     if config['train']['gpus']:
         multi_gpu = len(config['train']['gpus'].split(','))
+    else:
+        multi_gpu = 0
 
     train_model, infer_model = create_model(
         nb_class=len(labels),
