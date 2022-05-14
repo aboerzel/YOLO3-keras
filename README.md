@@ -21,13 +21,3 @@ Hier einige Artikel über die Architektur und Arbeitsweise von YOLO:
 
 [![](https://img.youtube.com/vi/MiJpW9fhUdw/0.jpg)](https://www.youtube.com/watch?v=MiJpW9fhUdw)
 
-#### Erkennung von Waschbären in Echtzeit
-
-![Beispiel](notebook/videos/cars_on_the_road.mp4)
-
-#### Erkennung von "Fabian" (Nachbar's Katze) in Echtzeit
-
-![Beispiel](notebook/videos/cars_on_the_road.mp4)
-
-## Training
-
